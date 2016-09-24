@@ -1,2 +1,1 @@
-# scripts
 # jenkins-scripts
